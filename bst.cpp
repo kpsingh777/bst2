@@ -91,7 +91,7 @@ int main(){
     inorder(root);
     cout<<endl;
     del(root,5);
-    inorder(root);
+    inorder(root); //add my name
 
     return 0;
 }
