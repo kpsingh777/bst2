@@ -50,6 +50,6 @@ void preorder(Node*root){
 int main(){
     int arr[7]={3,4,5,6,7,8,9};
     Node*root=buildfromsorted(arr,0,7);
-    preorder(root);
+    preorder(root); //hi
     return 0;
 }
