@@ -81,7 +81,7 @@ Node*del(Node*root,int val){
             root->right=del(root->right,is->data);
             return root;
 
-        }
+        } //hi my name is karan
         
     }
 }
